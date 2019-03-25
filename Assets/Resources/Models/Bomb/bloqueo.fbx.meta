@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 8dd34b137c5f7bf4bba6ff345c6a8e80
+timeCreated: 1515187688
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 01
+    100002: 02
+    100004: 03
+    100006: 04
+    100008: 05
+    100010: 06
+    100012: //RootNode
+    100014: Camera
+    100016: Lamp
+    100018: NT01
+    100020: NT02
+    100022: NT03
+    100024: NT04
+    100026: T01
+    100028: T02
+    100030: T03
+    100032: T04
+    400000: 01
+    400002: 02
+    400004: 03
+    400006: 04
+    400008: 05
+    400010: 06
+    400012: //RootNode
+    400014: Camera
+    400016: Lamp
+    400018: NT01
+    400020: NT02
+    400022: NT03
+    400024: NT04
+    400026: T01
+    400028: T02
+    400030: T03
+    400032: T04
+    2000000: Camera
+    2300000: 01
+    2300002: 02
+    2300004: 03
+    2300006: 04
+    2300008: 05
+    2300010: 06
+    2300012: NT01
+    2300014: NT02
+    2300016: NT03
+    2300018: NT04
+    2300020: T01
+    2300022: T02
+    2300024: T03
+    2300026: T04
+    3300000: 01
+    3300002: 02
+    3300004: 03
+    3300006: 04
+    3300008: 05
+    3300010: 06
+    3300012: NT01
+    3300014: NT02
+    3300016: NT03
+    3300018: NT04
+    3300020: T01
+    3300022: T02
+    3300024: T03
+    3300026: T04
+    4300000: NT04
+    4300002: NT03
+    4300004: NT02
+    4300006: T04
+    4300008: T03
+    4300010: T02
+    4300012: T01
+    4300014: NT01
+    4300016: 05
+    4300018: 04
+    4300020: 03
+    4300022: 02
+    4300024: 01
+    4300026: 06
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 994914cf9abd5224f8037fa67dd024c2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
